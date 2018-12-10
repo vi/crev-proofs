@@ -1,0 +1,42 @@
+-----BEGIN CREV PROJECT REVIEW-----
+version: -99999
+date: "2018-12-09T22:57:23.326235178-08:00"
+from:
+  id-type: crev
+  id: _xQgkbDAQx3nSV5SMfdEeQBSYiPwSI32wnMxnjExk24=
+  url: "https://github.com/dpc/crev-proofs"
+project:
+  source: "https://crates.io"
+  name: nodrop
+  version: 0.1.13
+  digest: WYjvL4WApM_miu80UCt31UQlWe97gal2cavHsCE176M=
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: neutral
+comment: "Small. Contains `unsafe` but LGTM."
+-----BEGIN CREV PROJECT REVIEW SIGNATURE-----
+K2lJx2eJEpNokUlLGIrmYd1BmVzQxsZl5ch4gB_4DYrLrSwHpxUVy2GZ6A5lDxO8UGescyuhAmmdsm2cIoE2Ag==
+-----END CREV PROJECT REVIEW-----
+
+-----BEGIN CREV PROJECT REVIEW-----
+version: -99999
+date: "2018-12-09T23:18:29.739989743-08:00"
+from:
+  id-type: crev
+  id: _xQgkbDAQx3nSV5SMfdEeQBSYiPwSI32wnMxnjExk24=
+  url: "https://github.com/dpc/crev-proofs"
+project:
+  source: "https://crates.io"
+  name: either
+  version: 1.5.0
+  digest: 1E88e0ya8wOX1jYLjl5OAEtl1EVzhWpji86dEQ-V720=
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: "Simple `Either` type"
+-----BEGIN CREV PROJECT REVIEW SIGNATURE-----
+FjfNpvfW7-dscUh1W5WcIIzXBPgXd-_fY-0Fya0mmlc9SRFSgmcZukjHQCmQ9eahU8DrsdPbAFD8U-od9t_4Ag==
+-----END CREV PROJECT REVIEW-----
+
