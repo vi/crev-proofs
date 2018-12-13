@@ -80,3 +80,45 @@ review:
 kdkATX26I9UkkgbgRJhZwN8V09wIbWGo7G6Q2WOE47pARwczXeTrD_I_aQ6WLv8H8OdJegG-PyQQJqd87ATwBg==
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-12T21:52:38.324220495-08:00"
+from:
+  id-type: crev
+  id: _xQgkbDAQx3nSV5SMfdEeQBSYiPwSI32wnMxnjExk24=
+  url: "https://github.com/dpc/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: slog-async
+  version: 2.3.0
+  digest: J97DhvQVguKkzeD7HWyOxa1nBC3eGEY9cZv9UI88vxs=
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: "I'm the author"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+I2TOXMJH2Gim2YU8zjS6wHnqF07vd61vNVnJZCV9axfqKqv5zNogreLV9lt-C4ht28B5JaBvQ7we6p4tfwY7BQ==
+-----END CREV PACKAGE REVIEW-----
+
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-12T21:54:58.932678423-08:00"
+from:
+  id-type: crev
+  id: _xQgkbDAQx3nSV5SMfdEeQBSYiPwSI32wnMxnjExk24=
+  url: "https://github.com/dpc/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: slog-term
+  version: 2.4.0
+  digest: fh5kk4_1NWvqQsrJQFyFlToNMaqSB3iolnl6aP_eNZg=
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: "I'm the author"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+GyB77bDaR2ToKNpc8lSAQS4BundKX7V0a7aB-DbYjSeolWKu75lLBTfteNI5VFNqqu7Zhhgph8JRDyQnI6PCDQ==
+-----END CREV PACKAGE REVIEW-----
+
