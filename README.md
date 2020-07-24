@@ -1,6 +1,7 @@
-# _Vi's crev-proofs
-Not much reviewed so far
+<!-- CREV_README_MARKER_V0 - Please don't remove this first line, or `crev` might overwrite this file.  -->
 
-I primarily mark my own crates as reviewed and do cursory reviews of some small dependencies.
+# Proof Repository
 
-`cargo crev fetch url https://github.com/vi/crev-proofs`
+This git repository is a [Crev Proof Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository).
+
+<!-- Feel free to customize this file below this line -->
