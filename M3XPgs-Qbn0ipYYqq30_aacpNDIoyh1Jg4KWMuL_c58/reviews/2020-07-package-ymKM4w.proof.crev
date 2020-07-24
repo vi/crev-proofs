@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-07-24T18:51:22.004764703+03:00"
+from:
+  id-type: crev
+  id: M3XPgs-Qbn0ipYYqq30_aacpNDIoyh1Jg4KWMuL_c58
+  url: "https://github.com/vi/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tokio-named-pipes
+  version: 0.1.0
+  digest: kAP4_YV2uiy_Bp8KhXcZcJOCb9CR4H2CFPndbrp8yxc
+review:
+  thoroughness: none
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+3ycn9xY0JSXBIOzPm62w5VcZySyLfmHRNJkr7PVza56VietEw3qJ12is0_2eKcd3sw8EDpK1cStFxGBH8LjKCA
+----- END CREV PROOF -----
+
